@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\views\\comentario\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:views\\comentario\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|c:\\users\\familia\\desktop\\bootcamp\\testeprojeto\\views\\comentario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:views\\comentario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\views\\comentario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:views\\comentario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\controllers\\respostacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:controllers\\respostacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D65812-BE88-495B-B6D1-0F7195DDD072}|TesteProjeto.csproj|solutionrelative:models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RespostaController.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Controllers\\RespostaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RespostaController.cs",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Controllers\\RespostaController.cs",
+              "RelativeToolTip": "Controllers\\RespostaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:21:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "Controllers\\ComentarioController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:09:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentario\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Detalhes.cshtml",
+              "RelativeToolTip": "Views\\Comentario\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T21:59:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Criar.cshtml",
+              "RelativeToolTip": "Views\\Comentario\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T21:55:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comentario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Views\\Comentario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Comentario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T21:48:17.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\FAMILIA\\Desktop\\Bootcamp\\TesteProjeto\\Models\\Comentario.cs",
+              "RelativeToolTip": "Models\\Comentario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:05:01.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

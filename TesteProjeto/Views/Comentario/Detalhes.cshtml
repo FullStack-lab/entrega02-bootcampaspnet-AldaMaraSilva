@@ -1,0 +1,25 @@
+﻿@model TesteProjeto.Models.Comentario
+
+<h2>@ViewBag.Title = "Detalhes do Comentário"</h2>
+<p><strong>@Model.Autor</strong> - @Model.DataCriacao.ToString("dd/MM/yyyy HH:mm")</p>
+<p>@Model.Texto</p>
+
+<h3>Respostas</h3>
+<ul>
+    @foreach (var resposta in Model.Respostas)
+    {
+        <li>
+            <strong>@resposta.Autor</strong> - @resposta.DataCriacao.ToString("dd/MM/yyyy HH:mm")
+            <p>@resposta.Texto</p>
+            <a href="@Url.Action("Excluir", "Resposta", new { id = resposta.Id, comentarioId = Model.Id })">Excluir</a>
+        </li>
+    }
+</ul>
+
+<p><a href="@Url.Action("Criar", "Resposta", new { comentarioId = Model.Id })">Adicionar resposta</a></p>
+
+<!-- Ação para visualizar o comentário detalhado -->
+<a href="@Url.Action("Detalhes", "Comentario", new { id = Model.Id })">Voltar para os detalhes</a>
+
+
+

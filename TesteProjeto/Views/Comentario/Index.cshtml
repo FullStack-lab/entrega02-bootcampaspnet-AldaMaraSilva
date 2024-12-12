@@ -1,0 +1,24 @@
+﻿@model List<TesteProjeto.Models.Comentario>
+
+@{ 
+    ViewBag.Title = "Comentários";
+}
+
+<h2>Comentários</h2>
+<p><a href="@Url.Action("Criar", "Comentario")">Adicionar novo comentário</a></p>
+<ul>
+    @foreach (var comentario in Model)
+    {
+        <li>
+            <strong>@comentario.Autor</strong> - @comentario.DataCriacao.ToString("dd/MM/yyyy HH:mm")
+            <p>@comentario.Texto</p>
+            <p>
+                <a href="@Url.Action("Detalhes", "Comentario", new { id = comentario.Id })">Ver detalhes</a> |
+                <a href="@Url.Action("Editar", "Comentario", new { id = comentario.Id })">Editar</a> |
+                <a href="@Url.Action("Excluir", "Comentario", new { id = comentario.Id })">Excluir</a>
+            </p>
+        </li>
+    }
+</ul>
+
+
